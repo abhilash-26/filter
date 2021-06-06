@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.filter_result {
+  display: flex;
+  padding: 20px;
+}
+/* .app_wrap {
+  display: grid;
+  grid-template-rows: 30% 70%;
+} */
+.card_box {
+  margin: 20px;
+}
